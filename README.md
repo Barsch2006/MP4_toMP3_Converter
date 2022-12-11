@@ -1,2 +1,2 @@
-# YouTube-Downloader
-Python File, that downloades a YouTube Video and converts it to a mp3 file
+# MP4 to MP3 Converter
+Python File, that converts a Video to a mp3 file
